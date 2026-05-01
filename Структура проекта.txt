@@ -1,0 +1,9 @@
+PasswordGenerator/
+├── .gitignore
+├── README.md
+├── main.py
+├── generator.py
+├── storage.json
+├── ui.py
+├── validator.py
+└── tests.py
